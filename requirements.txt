@@ -7,6 +7,7 @@ build
 gunicorn
 pyyaml
 pycryptodome
+types-PyYAML
 # Azure
 azure-mgmt-resource 
 azure-mgmt-compute
@@ -20,3 +21,8 @@ azure-cosmos
 google-cloud-compute
 google-cloud-logging
 firebase-admin
+# IBM
+ibm-cloud-sdk-core
+ibm-vpc
+ibm-platform-services
+ibm-cos-sdk
